@@ -17,13 +17,13 @@
 
 <p align="center">
   <a href="https://github.com/Kenotgg">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kenotgg&theme=2077" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kenotgg&theme=algolia" />
   </a>
   <a href="https://github.com/Kenotgg">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kenotgg&theme=2077" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kenotgg&theme=algolia" />
   </a>
   <a href="https://github.com/Kenotgg">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kenotgg&theme=2077" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kenotgg&theme=algolia" />
   </a>
 </p>
 

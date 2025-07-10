@@ -23,7 +23,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kenotgg&theme=2077" />
   </a>
   <a href="https://github.com/Kenotgg">
-    <img src="[http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=max69-cyber&theme=aura](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kenotgg&theme=2077&utcOffset=8" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kenotgg&theme=2077" />
   </a>
 </p>
 

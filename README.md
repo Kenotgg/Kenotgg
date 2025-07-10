@@ -9,7 +9,7 @@
     <a href="https://t.me/Kenotgg">
         <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
     </a>
-    <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCKCJFQjTCVtPklPhLCHdBrtKLlHwJSkVSkTcPZJLRQMjTgLgWmJzSzkzZhTHQmtqWKZVNmL">
+    <a href="mailto:kenotgg@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
 </p>
